@@ -10,7 +10,7 @@ public class Classroom{
     }
     
     public Classroom(String teacherName){
-        this(teacherName, 0, 0);
+        this(teacherName, 30, 0);
     }
 
     public int desks(){
