@@ -1,5 +1,5 @@
 public class Score {
-    public int score;
+    private int score;
 
     public Score() {
         score = 50;
